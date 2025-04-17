@@ -1,4 +1,4 @@
-# <h1 align="center">Fake News Detection Using Machine Learning</h1>    
+# <h1 align="center">Fake News Detection Using Machine Learning</h1>     
  
 ## <h2>Project Overview</h2>  
 In the digital age, the rapid spread of fake news through various online platforms has become a significant issue, leading to misinformation and societal harm. This project aims to develop a robust machine-learning model capable of classifying news articles as either true or false. By leveraging various machine learning techniques, we provide a valuable tool to combat misinformation.
