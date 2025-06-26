@@ -1,6 +1,6 @@
 # <h1 align="center">Fake News Detection Using Machine Learning</h1>                                   
    
-## <h2>Project Overview</h2>                     
+## <h2>Project Overview</h2>                              
 In the digital age, the rapid spread of fake news through various online platforms has become a significant issue, leading to misinformation and societal harm. This project aims to develop a robust machine-learning model capable of classifying news articles as either true or false. By leveraging various machine learning techniques, we provide a valuable tool to combat misinformation.
 
 explore multiple machine learning techniques, including <i><b>Logistic Regression</b></i>, <i><b>Decision Tree Classifier</b></i>,  <i><b>Gradient Boosting Classifier</b></i>,  and <i><b>Random Forest Classifier</b></i>, to determine the most effective approach for fake news detection. The performance of each model is evaluated based on accuracy, precision, recall, and F1 score..
